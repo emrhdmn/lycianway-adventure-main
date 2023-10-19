@@ -37,7 +37,7 @@ No special installation steps are needed. Simply clone the project and open it i
 
 ## Contact
 
-For questions, feedback, or collaboration offers related to this adventure website, please feel free to contact us. You can reach us via [iemrhdmn@gmail.com] or [github.com/emrahduman].
+For questions, feedback, or collaboration offers related to this adventure website, please feel free to contact us. You can reach us via [iemrhdmn@gmail.com] or [https://github.com/emrhdmn].
 
 ## Updates
 
