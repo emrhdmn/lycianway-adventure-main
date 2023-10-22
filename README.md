@@ -20,7 +20,7 @@ This open-source adventure website project is a web application created using HT
 
 ## Deploy
 
-`https://emrhdmn.github.io/lycianway-adventure-main/`
+https://emrhdmn.github.io/lycianway-adventure-main/
 
 1. Clone the project to your local machine.
 2. Open the project in a modern web browser.
